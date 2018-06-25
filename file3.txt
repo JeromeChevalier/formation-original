@@ -1,1 +1,2 @@
 Troisieme fichier créée dans la branche 2
+modification en // de rebase 
