@@ -1,3 +1,3 @@
 C'est le deuxieme fichier pour la formation GIT
-blablablabranche3
+blablablabranche3Master
 Ceci est une phrase ajouté dans la branche 2
