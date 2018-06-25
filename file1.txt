@@ -1,2 +1,0 @@
-Ceci est un exemple de text pour la formatio GIT SQLI
-C'est le premier fichier
