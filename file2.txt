@@ -3,4 +3,5 @@ blablablabranche3Masteroioioioioio
 Ceci est une phrase ajouté dans la branche 2
 ceci est un essaiiblablka
 commit fait dans le master en // de rebase 1
-Cette ligne a été ajouté dans le repo local
+Cette ligne a été ajouté dans le repo local et aussi modifié dans le repo clone
+modification faire dans le repo cloned
