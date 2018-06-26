@@ -5,3 +5,6 @@ ceci est un essaiiblablka
 commit fait dans le master en // de rebase 1
 Cette ligne a été ajouté dans le repo local et aussi modifié dans le repo clone
 modification faire dans le repo cloned
+ajout 1
+ajout 2
+ajout 3
