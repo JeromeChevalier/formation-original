@@ -10,3 +10,5 @@ ajout 2
 ajout 3
 modification que je veux pas commiter et qui vas etre stasher
 ajout fait dans le repo local modifié pour le rebase
+modif pas interessante
+
