@@ -8,4 +8,4 @@ modification faire dans le repo cloned
 ajout 1
 ajout 2
 ajout 3
-ajout fait dans le repo local
+ajout fait dans le repo local modifié pour le rebase
